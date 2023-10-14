@@ -46,7 +46,7 @@ export default [
   {
     image: ivana,
     name: "Ivanna",
-    description: "About files I can..",
+    description: "billing files I can..",
     action: {
       type: "internal",
       route: "/pages/profile/profile-overview",

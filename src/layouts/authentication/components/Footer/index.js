@@ -99,7 +99,7 @@ function Footer({ light }) {
                   fontWeight="regular"
                   color={light ? "white" : "dark"}
                 >
-                  About Us
+                  billing Us
                 </MDTypography>
               </Link>
             </MDBox>

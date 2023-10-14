@@ -137,7 +137,7 @@ function Overview() {
                 image={homeDecor2}
                 label="project #1"
                 title="scandinavian"
-                description="Music is something that everyone has their own specific opinion about."
+                description="Music is something that everyone has their own specific opinion billing."
                 action={{
                   type: "internal",
                   route: "/pages/profile/profile-overview",
@@ -195,7 +195,7 @@ function Overview() {
           </Grid>
         </MDBox>
       </Header>
-      <Footer />
+      {/* <Footer /> */}
     </DashboardLayout>
   );
 }
